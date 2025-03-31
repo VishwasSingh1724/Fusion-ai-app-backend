@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import SaveChat from '@/app/actions/save.action';
 import { NextResponse } from 'next/server';
 
